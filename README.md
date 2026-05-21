@@ -5,10 +5,10 @@ A living repository of technical cheat sheets, query templates, and investigativ
 ## 🧭 Repository Navigation
 
 ### 🌐 Network Security & Analysis
-*   [Wireshark Investigation Cheat Sheet](network-security/wireshark-cheatsheet.md) - Packet analysis filters for hunting scanning, C2 beacons, and lateral movement.
+* [Wireshark Investigation Cheat Sheet](network-security/wireshark-cheatsheet.md) - Packet analysis filters for hunting scanning, C2 beacons, and lateral movement.
 
 ### 💻 Endpoint & Windows Security
-*   *Coming Soon* - Windows Event ID mappings for tracking lateral movement and privilege escalation.
+* *Coming Soon* - Windows Event ID mappings for tracking lateral movement and privilege escalation.
 
 ### ☁️ Cloud & SIEM Operations
-*   *Coming Soon* - Enterprise KQL threat hunting queries for Microsoft Sentinel.
+* [KQL Threat Hunting Cheat Sheet](cloud-security/kql-hunting-cheatsheet.md) - Enterprise-wide log analysis queries for Microsoft Sentinel targeting recon, brute-force verification, and DNS tunneling.
